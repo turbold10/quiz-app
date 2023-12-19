@@ -1,0 +1,16 @@
+{
+  "quiz": [
+    {
+      "question": "asuult1",
+      "answers": ["harilt1", "hariult2", "hariult3", "harilut4"]
+    },
+    {
+      "question": "asuult2",
+      "answers": ["harilt1", "hariult2", "hariult3", "harilut4"]
+    },
+    {
+      "question": "asuult3",
+      "answers": ["harilt1", "hariult2", "hariult3", "harilut4"]
+    }
+  ]
+}
